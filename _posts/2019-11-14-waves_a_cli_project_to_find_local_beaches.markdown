@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Waves: A CLI Project to find local beaches"
-date:       2019-11-15 01:25:05 +0000
+date:       2019-11-14 20:25:06 -0500
 permalink:  waves_a_cli_project_to_find_local_beaches
 ---
 
