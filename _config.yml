@@ -1,11 +1,11 @@
 # Site settings
-author: alycia hall
-title: 
+author: Alycia
+title: Waves, First Project
 header-img: img/home-bg.png
 email: amhall25@gmail.com
-copyright_name: alycia hall
+copyright_name: Alycia
 description: > # this means to ignore newlines until "baseurl:"
-  
+  CLI to find local beaches
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  amhall25
