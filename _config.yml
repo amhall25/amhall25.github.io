@@ -1,11 +1,11 @@
 # Site settings
 author: Alycia
-title: Waves, First Project
+title: Learning to Code
 header-img: img/home-bg.png
 email: amhall25@gmail.com
 copyright_name: Alycia
 description: > # this means to ignore newlines until "baseurl:"
-  CLI to find local beaches
+  This blog documents my journey to become a Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  amhall25
